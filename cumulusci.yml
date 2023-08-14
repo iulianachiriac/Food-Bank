@@ -3,6 +3,7 @@ project:
   name: food-bank
   package:
     name: Food-Bank
+    namespace: foodbankcum12
     api_version: "55.0"
   git:
     default_branch: "main"
